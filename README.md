@@ -1,4 +1,4 @@
-** Name: Asveen Elavarasan **
+
 
 # React + TypeScript + Vite
 
