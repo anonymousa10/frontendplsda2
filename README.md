@@ -1,3 +1,5 @@
+** Name: Asveen Elavarasan **
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -56,7 +58,8 @@ Follow these steps to set up and run the forum frontend application on your loca
 2. **Install Dependencies:**
 
  ```bash
-npm install ```
+npm install
+```
 
 3. **Run:**
 
