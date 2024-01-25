@@ -61,7 +61,8 @@ npm install ```
 3. **Run:**
 
  ```bash
-npm run dev ```
+npm run dev
+```
 
 ### Navigation:
 
